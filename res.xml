@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "images" />
+	<atlas>	
+		<image file="ChessTile1.png"/>	
+		<image file="ChessTile2.png"/>
+		<image file="ChessTile3.png"/>
+		<image file="Pawn1.png"/>
+		<image file="Rook1.png"/>
+		<image file="Queen1.png"/>
+		<image file="King1.png"/>
+		<image file="Knight1.png"/>
+		<image file="Bishop1.png"/>
+		<image file="Pawn2.png"/>
+		<image file="Rook2.png"/>
+		<image file="Queen2.png"/>
+		<image file="King2.png"/>
+		<image file="Knight2.png"/>
+		<image file="Bishop2.png"/>
+	</atlas>
+	
+	<set path = "fonts" />
+	<font file="main.fnt" />	
+</resources>
